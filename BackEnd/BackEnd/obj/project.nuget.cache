@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W8HIfS+VrVsCVDOJogLosLEcMq6cKtdsSlZpc9aijY9r0VURp6bgEZ+1vht3PlcMPYtv6vH20uef7sXVaVerPg==",
+  "dgSpecHash": "HqCwuQCXdFdKaVXruyOdKlKID2/oWfFCUXQT1A0+4HpmcyanEtL2+l5w+NOS2zVVBai+om4fMCafygiTdsQHxA==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\BackEnd\\BackEnd\\BackEnd\\BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\MohamedNabil196\\Clinic\\Clinic\\BackEnd\\BackEnd\\BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

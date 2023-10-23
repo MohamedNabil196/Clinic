@@ -11421,11 +11421,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\BackEnd\\BackEnd\\BackEnd\\BackEnd.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\MohamedNabil196\\Clinic\\Clinic\\BackEnd\\BackEnd\\BackEnd.csproj",
       "projectName": "BackEnd",
-      "projectPath": "E:\\Projects\\BackEnd\\BackEnd\\BackEnd\\BackEnd.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\MohamedNabil196\\Clinic\\Clinic\\BackEnd\\BackEnd\\BackEnd.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\BackEnd\\BackEnd\\BackEnd\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\MohamedNabil196\\Clinic\\Clinic\\BackEnd\\BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
